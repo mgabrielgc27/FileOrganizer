@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FxHosUU0i95aFUJVy8OAgooUziU08FrrEiRJT/pkWaP0zh/Tjoprg86NvaZc+KYKS+izc7DKUYChmeqYE99sTA==",
+  "dgSpecHash": "rvLxBZUvn0iVETKZq75tSwCPWnm8RcnhJWs6WYSnhgbM6mDHIkl8PioMeqaVWBzpIHQ0Cq7fE5pLSb3BuK/SQw==",
   "success": true,
-  "projectFilePath": "C:\\Prog\\FileOrganizer\\FileOrganizer.csproj",
+  "projectFilePath": "C:\\Prog\\newrepo\\FileOrganizer\\FileOrganizer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
