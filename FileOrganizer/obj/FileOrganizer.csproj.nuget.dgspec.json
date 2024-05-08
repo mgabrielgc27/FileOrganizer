@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Prog\\FileOrganizer\\FileOrganizer.csproj": {}
+    "C:\\Prog\\newrepo\\FileOrganizer\\FileOrganizer.csproj": {}
   },
   "projects": {
-    "C:\\Prog\\FileOrganizer\\FileOrganizer.csproj": {
+    "C:\\Prog\\newrepo\\FileOrganizer\\FileOrganizer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Prog\\FileOrganizer\\FileOrganizer.csproj",
+        "projectUniqueName": "C:\\Prog\\newrepo\\FileOrganizer\\FileOrganizer.csproj",
         "projectName": "FileOrganizer",
-        "projectPath": "C:\\Prog\\FileOrganizer\\FileOrganizer.csproj",
+        "projectPath": "C:\\Prog\\newrepo\\FileOrganizer\\FileOrganizer.csproj",
         "packagesPath": "C:\\Users\\Marco\\.nuget\\packages\\",
-        "outputPath": "C:\\Prog\\FileOrganizer\\obj\\",
+        "outputPath": "C:\\Prog\\newrepo\\FileOrganizer\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Marco\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
